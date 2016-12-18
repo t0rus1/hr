@@ -21,5 +21,8 @@
   "homepage": "https://github.com/t0rus1/hr#readme",
   "dependencies": {
     "colors": "^1.1.2"
-  }
+  },
+  "engines": {
+    "node": "4.6.1"
+  }  
 }
