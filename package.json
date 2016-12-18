@@ -4,6 +4,7 @@
   "description": "human resources app",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "make test"
   },
   "repository": {
